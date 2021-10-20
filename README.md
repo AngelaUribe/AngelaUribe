@@ -1,5 +1,5 @@
 ### Hi I'am Angela Uribe ✨
-♥ women who code ♥
+Women who code 💕
 
 
 <!--
