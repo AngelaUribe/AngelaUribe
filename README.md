@@ -1,6 +1,6 @@
 ### Hi I'am Angela Uribe ✨
-Women who code 💕
-Platzi Master's Student 💚 Cohort 8
+- Women who code 💕
+- Platzi Master's Student 💚 Cohort 8
 
 
 <!--
