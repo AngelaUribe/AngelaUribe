@@ -1,4 +1,5 @@
 ### Hi I'am Angela Uribe ✨
+t
 
 <!--
 **AngelaUribe/AngelaUribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ⭐  Skills
-
+- Leadership
+- Teamwork
+- Effective communication
+- Design tools (Adobe - Corel)
+- .net c# sql laravel php mysql
 
 ## 🤙 Contact me!
 
