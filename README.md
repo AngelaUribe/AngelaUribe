@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEPqlKMw1XSBQ/profile-displaybackgroundimage-shrink_350_1400/0/1643772172988?e=1651708800&v=beta&t=90hL1Hxho_9_0FVtqMY7zm_dB0rdzOafcLY0cnnyrR8" height="60">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQEPqlKMw1XSBQ/profile-displaybackgroundimage-shrink_350_1400/0/1643772172988?e=1651708800&v=beta&t=90hL1Hxho_9_0FVtqMY7zm_dB0rdzOafcLY0cnnyrR8">
 
 ### Hi I'am Angela Uribe ✨
 - Software Developer from Colombia. 👩‍💻 I have more than 6 years of experience leading projects. I'm pretty good at coming up with solutions💡
